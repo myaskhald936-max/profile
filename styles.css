@@ -1848,6 +1848,10 @@ body:has(#splash-screen:not(.splash-hidden)) {
   }
   
     .splash-name{
+    margin-top: 3rem;
+  }
+
+  .name-letter{
     margin-top: 2rem;
   }
 
@@ -1969,6 +1973,14 @@ body:has(#splash-screen:not(.splash-hidden)) {
 
   .nav-right {
     gap: 10px;
+  }
+
+  .splash-name{
+    margin-top: 2rem;
+  }
+
+  .name-letter{
+    margin-top: 2rem;
   }
 
   .language-switcher {
