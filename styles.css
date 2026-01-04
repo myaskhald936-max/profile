@@ -1847,12 +1847,8 @@ body:has(#splash-screen:not(.splash-hidden)) {
     display: flex;
   }
   
-    .splash-name{
-    margin-top: 3rem;
-  }
-
-  .name-letter{
-    margin-top: 2rem;
+    .name-container{
+    padding: 2rem;
   }
 
   .circles-container {
@@ -1975,12 +1971,8 @@ body:has(#splash-screen:not(.splash-hidden)) {
     gap: 10px;
   }
 
-  .splash-name{
-    margin-top: 2rem;
-  }
-
-  .name-letter{
-    margin-top: 2rem;
+ .name-container{
+    padding: 3rem;
   }
 
   .language-switcher {
