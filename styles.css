@@ -1846,6 +1846,10 @@ body:has(#splash-screen:not(.splash-hidden)) {
   .hamburger-menu {
     display: flex;
   }
+  
+    .splash-name{
+    margin-top: 2rem;
+  }
 
   .circles-container {
     width: 320px;
